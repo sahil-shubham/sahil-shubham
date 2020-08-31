@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Sahil. I am Sophomore at IIT Kharagpur, currently pursuing B.tech. in Metallurgy & Material Engineering.
+I am currectly working a few projects with python and javascript. I am also trying to contribute to other's projects
+although nothing big at this time.
