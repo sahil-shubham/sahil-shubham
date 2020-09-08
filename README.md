@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am Sahil. I am Sophomore at IIT Kharagpur, currently pursuing B.tech. in Metallurgy & Material Engineering.
-I am currectly working on a few projects mainly with python and javascript. I am also trying to contribute to other's projects
-although nothing big at this time.
+I am currectly working on a few projects mainly with python and javascript.
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api?username=sahil-shubham&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
