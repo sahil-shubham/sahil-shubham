@@ -22,4 +22,4 @@ I am Sahil. I am a sophomore at IIT Kharagpur, currently pursuing B.tech. in Met
 - I am currently working on a few projects which would be made public soon :wink:
 
 
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api?username=sahil-shubham&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil-shubham&hide=stars&count_private=true&show_icons=true&theme=calm)
