@@ -4,7 +4,7 @@
 
 - I'm looking to collaborate with other people
 - I'm currently working on a few projects which would be made public soon :wink:
-- 2020 Goals: Contribute more to Open Source Projects
+- **2020 Goals**: Contribute more to Open Source Projects
 
 ### Languages and Tools: 
 
