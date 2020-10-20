@@ -16,7 +16,7 @@
 <br />
 <br />
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil-shubham&hide=stars&count_private=true&show_icons=true&theme=calm)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil-shubham&hide=stars&count_private=true&show_icons=true&theme=cobalt)
 
 ### Connect with me
 
