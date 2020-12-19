@@ -23,5 +23,4 @@
 [<img align="left" alt="Sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sahil | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[facebook]: https://www.facebook.com/sahil.shubham.779/
 [linkedin]: https://www.linkedin.com/in/sahil-shubham-3599731a1/
