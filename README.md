@@ -2,7 +2,6 @@
 
 ## I am a Student, Developer and an Open Source Enthusiast!
 
-- I'm looking to collaborate with other people
 - **2021 Goals**: Contribute more to Open Source Projects
 
 ### Languages and Tools: 
