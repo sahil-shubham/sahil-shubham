@@ -1,9 +1,8 @@
 ### Hi there, I'm Sahil 👋
 
-## I am a Student, Developer and an Open Source Enthusiast!
+## I am a Developer, an Open Source Enthusiast and a Dreamer
 
 - I write something, sometimes, [here](https://sahil-shubham.in)
-- Product Engineer at [Workduck.io](https://workduck.io)
-- **2022 Goals**: Contribute more to Open Source Projects
+- **2024 Goals**: Make and release projects in public
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahil-shubham&hide=stars&count_private=true&show_icons=true&theme=material-palenight)
